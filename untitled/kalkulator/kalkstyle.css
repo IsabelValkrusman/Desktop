@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(85, 129, 134);  /*kommentaar*/
+    color: black; /*tekstivärv*/
+
+}
+fieldset
+{
+    background-color: cornflowerblue;
+}
+legend
+{
+    margin-bottom: 0px;
+    margin-left: 16px;
+}
+input[type=number]{
+    width: 50;
+}
+
+img{
+
+}
+
+div#kal1{
+    width:70%;
+    margin-left:30%;
+    border:solid 4px olive;
+    background-color: lightblue;
+}
+
+
